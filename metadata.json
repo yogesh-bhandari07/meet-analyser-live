@@ -1,0 +1,8 @@
+{
+  "name": "The Wingman",
+  "description": "Real-time AI negotiation assistant and legal wingman using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
